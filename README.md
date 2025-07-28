@@ -1,0 +1,1 @@
+init go websocket app
